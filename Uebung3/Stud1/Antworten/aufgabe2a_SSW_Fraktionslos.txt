@@ -1,0 +1,1 @@
+Document{{_id=11005219, Redenanzahl=43, Vorname=Stefan, Nachname=Seidler, Partei=SSW, Fraktion=Fraktionslos}}

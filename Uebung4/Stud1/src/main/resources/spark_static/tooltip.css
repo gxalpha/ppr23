@@ -1,0 +1,27 @@
+.tooltip-background {
+    position: relative;
+    width: fit-content;
+}
+
+.tooltip-background .tooltip {
+    position: absolute;
+    display: inline-block;
+    opacity: 0;
+    transition: opacity 0.5s 0s;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    border-radius: 3px;
+
+    width: 120px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    z-index: 1;
+}
+
+.tooltip-background:hover .tooltip {
+    transition: opacity 0.5s 0.5s;
+    opacity: 1;
+}

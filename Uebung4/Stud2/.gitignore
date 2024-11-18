@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+src/.DS_Store
+src/main/.DS_Store
+src/main/resources/Bundestagsreden20
+src/main/resources/MdB-Stammdaten
+target/

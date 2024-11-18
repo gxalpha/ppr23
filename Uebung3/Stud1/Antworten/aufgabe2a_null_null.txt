@@ -1,0 +1,747 @@
+Document{{_id=11003231, Redenanzahl=215, Vorname=Olaf, Nachname=Scholz, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005074, Redenanzahl=140, Vorname=Robert, Nachname=Habeck, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003702, Redenanzahl=121, Vorname=Volker, Nachname=Wissing, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004097, Redenanzahl=118, Vorname=Christian, Nachname=Lindner, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11003797, Redenanzahl=117, Vorname=Karl, Nachname=Lauterbach, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004902, Redenanzahl=115, Vorname=Bettina, Nachname=Stark-Watzinger, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004023, Redenanzahl=111, Vorname=Marco, Nachname=Buschmann, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004245, Redenanzahl=107, Vorname=Annalena, Nachname=Baerbock, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004678, Redenanzahl=105, Vorname=Stephan, Nachname=Brandner, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004127, Redenanzahl=96, Vorname=Lisa, Nachname=Paus, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004091, Redenanzahl=89, Vorname=Ralph, Nachname=Lenkert, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11002720, Redenanzahl=85, Vorname=Steffi, Nachname=Lemke, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003142, Redenanzahl=79, Vorname=Hubertus, Nachname=Heil, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005053, Redenanzahl=77, Vorname=Robert, Nachname=Farle, Partei=AfD, Fraktion=Fraktionslos}}
+Document{{_id=11002746, Redenanzahl=71, Vorname=Cem, Nachname=Özdemir, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004396, Redenanzahl=70, Vorname=Nina, Nachname=Scheer, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003584, Redenanzahl=70, Vorname=Gesine, Nachname=Lötzsch, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004802, Redenanzahl=68, Vorname=Helge, Nachname=Lindh, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003167, Redenanzahl=63, Vorname=Christine, Nachname=Lambrecht, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004427, Redenanzahl=61, Vorname=Volker, Nachname=Ullrich, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004752, Redenanzahl=58, Vorname=Karsten, Nachname=Hilse, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11003848, Redenanzahl=55, Vorname=Petra, Nachname=Sitte, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004792, Redenanzahl=54, Vorname=Rainer, Nachname=Kraft, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004892, Redenanzahl=52, Vorname=Martin, Nachname=Sichert, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005117, Redenanzahl=52, Vorname=Michael, Nachname=Kruse, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004175, Redenanzahl=51, Vorname=Stephan, Nachname=Thomae, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005123, Redenanzahl=49, Vorname=Ina, Nachname=Latendorf, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004050, Redenanzahl=49, Vorname=Jürgen, Nachname=Hardt, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004731, Redenanzahl=48, Vorname=Kay, Nachname=Gottschalk, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005079, Redenanzahl=48, Vorname=Matthias, Nachname=Helferich, Partei=AfD, Fraktion=Fraktionslos}}
+Document{{_id=11004781, Redenanzahl=48, Vorname=Norbert, Nachname=Kleinwächter, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005260, Redenanzahl=47, Vorname=Janine, Nachname=Wissler, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004182, Redenanzahl=47, Vorname=Johann David, Nachname=Wadephul, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004656, Redenanzahl=46, Vorname=Philipp, Nachname=Amthor, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004732, Redenanzahl=46, Vorname=Timon, Nachname=Gremmels, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003246, Redenanzahl=46, Vorname=Jürgen, Nachname=Trittin, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005067, Redenanzahl=46, Vorname=Christian, Nachname=Görke, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004763, Redenanzahl=46, Vorname=Reinhard, Nachname=Houben, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004669, Redenanzahl=46, Vorname=Marc, Nachname=Bernhard, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004181, Redenanzahl=46, Vorname=Kathrin, Nachname=Vogler, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11003586, Redenanzahl=45, Vorname=Dorothee, Nachname=Bär, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004819, Redenanzahl=45, Vorname=Pascal, Nachname=Meiser, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005289, Redenanzahl=45, Vorname=Clara, Nachname=Bünger, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004100, Redenanzahl=44, Vorname=Jan-Marco, Nachname=Luczak, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004041, Redenanzahl=44, Vorname=Nicole, Nachname=Gohlke, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004087, Redenanzahl=44, Vorname=Ulrich, Nachname=Lange, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004791, Redenanzahl=44, Vorname=Steffen, Nachname=Kotré, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005095, Redenanzahl=44, Vorname=Lamya, Nachname=Kaddor, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005186, Redenanzahl=43, Vorname=Heidi, Nachname=Reichinnek, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005219, Redenanzahl=43, Vorname=Stefan, Nachname=Seidler, Partei=SSW, Fraktion=Fraktionslos}}
+Document{{_id=11004682, Redenanzahl=43, Vorname=Sebastian, Nachname=Brehm, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004061, Redenanzahl=42, Vorname=Thomas, Nachname=Jarzombek, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003780, Redenanzahl=42, Vorname=Andreas, Nachname=Jung, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004088, Redenanzahl=42, Vorname=Caren, Nachname=Lay, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005073, Redenanzahl=42, Vorname=Ates, Nachname=Gürpinar, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005094, Redenanzahl=40, Vorname=Ann-Veruschka, Nachname=Jurisch, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004258, Redenanzahl=40, Vorname=Bernhard, Nachname=Daldrup, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005227, Redenanzahl=40, Vorname=Nina, Nachname=Stahr, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004342, Redenanzahl=40, Vorname=Andrea, Nachname=Lindholz, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003638, Redenanzahl=40, Vorname=Jens, Nachname=Spahn, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005201, Redenanzahl=39, Vorname=Sebastian, Nachname=Schäfer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004452, Redenanzahl=39, Vorname=Emmi, Nachname=Zeulner, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004444, Redenanzahl=39, Vorname=Dirk, Nachname=Wiese, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004905, Redenanzahl=39, Vorname=Beatrix, Nachname=Storch, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004786, Redenanzahl=39, Vorname=Lukas, Nachname=Köhler, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004799, Redenanzahl=39, Vorname=Ulrich, Nachname=Lechte, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004339, Redenanzahl=38, Vorname=Andreas, Nachname=Lenz, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004116, Redenanzahl=38, Vorname=Nadine, Nachname=Schön, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005011, Redenanzahl=38, Vorname=Andreas, Nachname=Audretsch, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005191, Redenanzahl=36, Vorname=Sebastian, Nachname=Roloff, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005234, Redenanzahl=36, Vorname=Konrad, Nachname=Stockmeier, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004859, Redenanzahl=36, Vorname=Martin, Nachname=Reichardt, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005016, Redenanzahl=36, Vorname=Felix, Nachname=Banaszak, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004722, Redenanzahl=36, Vorname=Götz, Nachname=Frömming, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005221, Redenanzahl=36, Vorname=Lina, Nachname=Seitzl, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004865, Redenanzahl=35, Vorname=Bernd, Nachname=Riexinger, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005115, Redenanzahl=35, Vorname=Dunja, Nachname=Kreiser, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005091, Redenanzahl=35, Vorname=Gerrit, Nachname=Huy, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005019, Redenanzahl=35, Vorname=Katharina, Nachname=Beck, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004796, Redenanzahl=35, Vorname=Konstantin, Nachname=Kuhle, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005083, Redenanzahl=34, Vorname=Bernhard, Nachname=Herrmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004409, Redenanzahl=34, Vorname=Tino, Nachname=Sorge, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005012, Redenanzahl=34, Vorname=Maik, Nachname=Außendorf, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003566, Redenanzahl=34, Vorname=Julia, Nachname=Klöckner, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004715, Redenanzahl=34, Vorname=Susanne, Nachname=Ferschl, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004917, Redenanzahl=34, Vorname=Alexander, Nachname=Throm, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004716, Redenanzahl=34, Vorname=Daniel, Nachname=Föst, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004969, Redenanzahl=34, Vorname=Marcel, Nachname=Emmerich, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005065, Redenanzahl=34, Vorname=Jan-Niclas, Nachname=Gesenhues, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005158, Redenanzahl=34, Vorname=Maximilian, Nachname=Mordhorst, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004117, Redenanzahl=34, Vorname=Beate, Nachname=Müller-Gemmeke, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004312, Redenanzahl=33, Vorname=Dieter, Nachname=Janecek, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005039, Redenanzahl=33, Vorname=Sandra, Nachname=Detzer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005129, Redenanzahl=33, Vorname=Thorsten, Nachname=Lieb, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004709, Redenanzahl=33, Vorname=Thomas, Nachname=Erndl, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003530, Redenanzahl=33, Vorname=Otto, Nachname=Fricke, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004698, Redenanzahl=33, Vorname=Gottfried, Nachname=Curio, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004884, Redenanzahl=32, Vorname=Michael, Nachname=Schrodi, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004304, Redenanzahl=32, Vorname=Alexander, Nachname=Hoffmann, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004933, Redenanzahl=32, Vorname=Wolfgang, Nachname=Wiehle, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005047, Redenanzahl=32, Vorname=Leon, Nachname=Eckert, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004057, Redenanzahl=32, Vorname=Manuel, Nachname=Höferlin, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004832, Redenanzahl=32, Vorname=Sepp, Nachname=Müller, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005024, Redenanzahl=32, Vorname=Bengt, Nachname=Bergt, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005030, Redenanzahl=32, Vorname=Simone, Nachname=Borchardt, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004726, Redenanzahl=31, Vorname=Stefan, Nachname=Gelbhaar, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004721, Redenanzahl=31, Vorname=Markus, Nachname=Frohnmaier, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004754, Redenanzahl=31, Vorname=Gero Clemens, Nachname=Hocker, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004734, Redenanzahl=31, Vorname=Thomas, Nachname=Hacker, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004742, Redenanzahl=31, Vorname=Katrin, Nachname=Helling-Plahr, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004440, Redenanzahl=31, Vorname=Anja, Nachname=Weisgerber, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004653, Redenanzahl=30, Vorname=Gökay, Nachname=Akbulut, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004926, Redenanzahl=30, Vorname=Christoph, Nachname=Vries, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004244, Redenanzahl=30, Vorname=Heike, Nachname=Baehrens, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004901, Redenanzahl=30, Vorname=Katrin, Nachname=Staffler, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004857, Redenanzahl=30, Vorname=Filiz, Nachname=Polat, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004899, Redenanzahl=30, Vorname=Dirk, Nachname=Spaniel, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004853, Redenanzahl=29, Vorname=Stephan, Nachname=Pilsinger, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005078, Redenanzahl=29, Vorname=Linda, Nachname=Heitmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003576, Redenanzahl=29, Vorname=Renate, Nachname=Künast, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004119, Redenanzahl=29, Vorname=Ingrid, Nachname=Nestle, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005190, Redenanzahl=29, Vorname=Lars, Nachname=Rohwer, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003034, Redenanzahl=29, Vorname=Dietmar, Nachname=Bartsch, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004110, Redenanzahl=29, Vorname=Mathias, Nachname=Middelberg, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005228, Redenanzahl=29, Vorname=Till, Nachname=Steffen, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004048, Redenanzahl=29, Vorname=Florian, Nachname=Hahn, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004675, Redenanzahl=29, Vorname=Peter, Nachname=Boehringer, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004075, Redenanzahl=29, Vorname=Pascal, Nachname=Kober, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004103, Redenanzahl=29, Vorname=Thomas, Nachname=Lutze, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004753, Redenanzahl=28, Vorname=Nicole, Nachname=Höchst, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004291, Redenanzahl=28, Vorname=Sebastian, Nachname=Hartmann, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005180, Redenanzahl=28, Vorname=Paula, Nachname=Piechotta, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005020, Redenanzahl=28, Vorname=Roger, Nachname=Beckamp, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004665, Redenanzahl=28, Vorname=Canan, Nachname=Bayram, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005257, Redenanzahl=28, Vorname=Klaus, Nachname=Wiener, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005206, Redenanzahl=28, Vorname=Peggy, Nachname=Schierenbeck, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005018, Redenanzahl=28, Vorname=Christina, Nachname=Baum, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004680, Redenanzahl=28, Vorname=Jürgen, Nachname=Braun, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005251, Redenanzahl=28, Vorname=Carmen, Nachname=Wegge, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004745, Redenanzahl=27, Vorname=Markus, Nachname=Herbrand, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004815, Redenanzahl=27, Vorname=Till, Nachname=Mansmann, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005232, Redenanzahl=27, Vorname=Klaus, Nachname=Stöber, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005103, Redenanzahl=27, Vorname=Franziska, Nachname=Kersten, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003753, Redenanzahl=27, Vorname=Klaus, Nachname=Ernst, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004779, Redenanzahl=27, Vorname=Michael, Nachname=Kießling, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005089, Redenanzahl=27, Vorname=Verena, Nachname=Hubertz, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004674, Redenanzahl=27, Vorname=Andreas, Nachname=Bleck, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11003746, Redenanzahl=27, Vorname=Sevim, Nachname=Dağdelen, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11002735, Redenanzahl=27, Vorname=Friedrich, Nachname=Merz, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005151, Redenanzahl=27, Vorname=Robin, Nachname=Mesarosch, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004711, Redenanzahl=27, Vorname=Michael, Nachname=Espendiller, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004787, Redenanzahl=27, Vorname=Enrico, Nachname=Komning, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004697, Redenanzahl=27, Vorname=Carl-Julius, Nachname=Cronenberg, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004159, Redenanzahl=27, Vorname=Judith, Nachname=Skudelny, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004768, Redenanzahl=27, Vorname=Marc, Nachname=Jongen, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11003516, Redenanzahl=26, Vorname=Alexander, Nachname=Dobrindt, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004858, Redenanzahl=26, Vorname=Stephan, Nachname=Protschka, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004767, Redenanzahl=26, Vorname=Fabian, Nachname=Jacobi, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005215, Redenanzahl=26, Vorname=Ria, Nachname=Schröder, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005132, Redenanzahl=26, Vorname=Helge, Nachname=Limburg, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004442, Redenanzahl=26, Vorname=Bernd, Nachname=Westphal, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005220, Redenanzahl=26, Vorname=Stephan, Nachname=Seiter, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005021, Redenanzahl=26, Vorname=Holger, Nachname=Becker, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004757, Redenanzahl=26, Vorname=Christoph, Nachname=Hoffmann, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005142, Redenanzahl=26, Vorname=Zanda, Nachname=Martens, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004106, Redenanzahl=26, Vorname=Agnieszka, Nachname=Brugger, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004854, Redenanzahl=26, Vorname=Christoph, Nachname=Ploß, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003574, Redenanzahl=26, Vorname=Günter, Nachname=Krings, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004667, Redenanzahl=26, Vorname=Olaf, Nachname=In der Beek, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004780, Redenanzahl=26, Vorname=Karsten, Nachname=Klein, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005058, Redenanzahl=26, Vorname=Maximilian, Nachname=Funke-Kaiser, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004018, Redenanzahl=26, Vorname=Reinhard, Nachname=Brandl, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004152, Redenanzahl=26, Vorname=Detlef, Nachname=Seif, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005261, Redenanzahl=25, Vorname=Mechthilde, Nachname=Wittmann, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004285, Redenanzahl=25, Vorname=Fritz, Nachname=Güntzler, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005131, Redenanzahl=25, Vorname=Esra, Nachname=Limbacher, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004873, Redenanzahl=25, Vorname=Ulrike, Nachname=Schielke-Ziesing, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004038, Redenanzahl=25, Vorname=Thomas, Nachname=Gebhart, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005099, Redenanzahl=25, Vorname=Malte, Nachname=Kaufmann, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004385, Redenanzahl=25, Vorname=Martina, Nachname=Renner, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004011, Redenanzahl=25, Vorname=Steffen, Nachname=Bilger, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005086, Redenanzahl=25, Vorname=Bruno, Nachname=Hönel, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004695, Redenanzahl=25, Vorname=Tino, Nachname=Chrupalla, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005113, Redenanzahl=25, Vorname=Laura, Nachname=Kraft, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004876, Redenanzahl=25, Vorname=Nils, Nachname=Schmid, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004789, Redenanzahl=25, Vorname=Carina, Nachname=Konrad, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004823, Redenanzahl=25, Vorname=Amira, Nachname=Mohamed Ali, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005106, Redenanzahl=25, Vorname=Ottilie, Nachname=Klein, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004288, Redenanzahl=25, Vorname=André, Nachname=Hahn, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11003858, Redenanzahl=25, Vorname=Alexander, Nachname=Ulrich, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004820, Redenanzahl=24, Vorname=Christoph, Nachname=Meyer, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004327, Redenanzahl=24, Vorname=Georg, Nachname=Kippels, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004761, Redenanzahl=24, Vorname=Leif-Erik, Nachname=Holm, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005045, Redenanzahl=24, Vorname=Deborah, Nachname=Düring, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005214, Redenanzahl=24, Vorname=Christina-Johanne, Nachname=Schröder, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005143, Redenanzahl=24, Vorname=Parsa, Nachname=Marvi, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005100, Redenanzahl=24, Vorname=Michael, Nachname=Kaufmann, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11003706, Redenanzahl=24, Vorname=Artur, Nachname=Auernhammer, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11002812, Redenanzahl=24, Vorname=Max, Nachname=Straubinger, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005118, Redenanzahl=24, Vorname=Tilman, Nachname=Kuban, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004337, Redenanzahl=24, Vorname=Katja, Nachname=Leikert, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004060, Redenanzahl=24, Vorname=Andrej, Nachname=Hunko, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11003613, Redenanzahl=24, Vorname=Daniela, Nachname=Ludwig, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004365, Redenanzahl=24, Vorname=Wilfried, Nachname=Oellers, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004659, Redenanzahl=23, Vorname=Lisa, Nachname=Badum, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004259, Redenanzahl=23, Vorname=Karamba, Nachname=Diaby, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004891, Redenanzahl=23, Vorname=Thomas, Nachname=Seitz, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005165, Redenanzahl=23, Vorname=Rasha, Nachname=Nasr, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005109, Redenanzahl=23, Vorname=Tim, Nachname=Klüssendorf, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004276, Redenanzahl=23, Vorname=Thorsten, Nachname=Frei, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005200, Redenanzahl=23, Vorname=Jamila, Nachname=Schäfer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005049, Redenanzahl=23, Vorname=Sonja, Nachname=Eichwede, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004727, Redenanzahl=23, Vorname=Albrecht, Nachname=Glaser, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004778, Redenanzahl=23, Vorname=Stefan, Nachname=Keuter, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005022, Redenanzahl=23, Vorname=Lukas, Nachname=Benner, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004215, Redenanzahl=23, Vorname=Harald, Nachname=Ebner, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005241, Redenanzahl=23, Vorname=Derya, Nachname=Türk-Nachbaur, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004681, Redenanzahl=23, Vorname=Silvia, Nachname=Breher, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005090, Redenanzahl=22, Vorname=Markus, Nachname=Hümpfer, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005084, Redenanzahl=22, Vorname=Nadine, Nachname=Heselhaus, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004749, Redenanzahl=22, Vorname=Martin, Nachname=Hess, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004692, Redenanzahl=22, Vorname=Petr, Nachname=Bystron, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005108, Redenanzahl=22, Vorname=Annika, Nachname=Klose, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004414, Redenanzahl=22, Vorname=Wolfgang, Nachname=Stefinger, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004687, Redenanzahl=22, Vorname=Marcus, Nachname=Bühl, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004072, Redenanzahl=22, Vorname=Maria, Nachname=Klein-Schmeink, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004705, Redenanzahl=22, Vorname=Christian, Nachname=Dürr, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005164, Redenanzahl=22, Vorname=Sara, Nachname=Nanni, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005056, Redenanzahl=22, Vorname=Sebastian, Nachname=Fiedler, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005236, Redenanzahl=22, Vorname=Ruppert, Nachname=Stüwe, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004262, Redenanzahl=22, Vorname=Michael, Nachname=Donth, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004828, Redenanzahl=22, Vorname=Alexander, Nachname=Müller, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004837, Redenanzahl=22, Vorname=Zaklin, Nachname=Nastic, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004703, Redenanzahl=22, Vorname=Anke, Nachname=Domscheit-Berg, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005141, Redenanzahl=21, Vorname=Kaweh, Nachname=Mansoori, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004286, Redenanzahl=21, Vorname=Christian, Nachname=Haase, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005010, Redenanzahl=21, Vorname=Johannes, Nachname=Arlt, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004696, Redenanzahl=21, Vorname=Joana, Nachname=Cotar, Partei=Parteilos, Fraktion=Fraktionslos}}
+Document{{_id=11005112, Redenanzahl=21, Vorname=Simona, Nachname=Koß, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004264, Redenanzahl=21, Vorname=Hansjörg, Nachname=Durz, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005102, Redenanzahl=21, Vorname=Michael, Nachname=Kellner, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004807, Redenanzahl=21, Vorname=Rüdiger, Nachname=Lucassen, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004877, Redenanzahl=21, Vorname=Stefan, Nachname=Schmidt, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005080, Redenanzahl=21, Vorname=Kathrin, Nachname=Henneberger, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004900, Redenanzahl=21, Vorname=René, Nachname=Springer, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11003589, Redenanzahl=21, Vorname=Stephan, Nachname=Mayer, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005238, Redenanzahl=21, Vorname=Jens, Nachname=Teutrine, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005036, Redenanzahl=21, Vorname=Isabel, Nachname=Cademartori Dujisin, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004004, Redenanzahl=21, Vorname=Peter, Nachname=Aumer, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005197, Redenanzahl=21, Vorname=Kassem, Nachname=Taher Saleh, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005264, Redenanzahl=21, Vorname=Joachim, Nachname=Wundrak, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004788, Redenanzahl=21, Vorname=Jörn, Nachname=König, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004418, Redenanzahl=21, Vorname=Johannes, Nachname=Steiniger, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004962, Redenanzahl=21, Vorname=Janosch, Nachname=Dahmen, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005263, Redenanzahl=21, Vorname=Mareike Lotte, Nachname=Wulf, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003809, Redenanzahl=21, Vorname=Matthias, Nachname=Miersch, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005230, Redenanzahl=21, Vorname=Hanna, Nachname=Steinmüller, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005233, Redenanzahl=21, Vorname=Diana, Nachname=Stöcker, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005147, Redenanzahl=21, Vorname=Andreas, Nachname=Mehltretter, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11000756, Redenanzahl=21, Vorname=Gregor, Nachname=Gysi, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11003815, Redenanzahl=21, Vorname=Carsten, Nachname=Müller, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003578, Redenanzahl=20, Vorname=Markus, Nachname=Kurth, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005247, Redenanzahl=20, Vorname=Carolin, Nachname=Wagner, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004850, Redenanzahl=20, Vorname=Tobias Matthias, Nachname=Peterka, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004448, Redenanzahl=20, Vorname=Gülistan, Nachname=Yüksel, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005229, Redenanzahl=20, Vorname=Ralf, Nachname=Stegner, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005242, Redenanzahl=20, Vorname=Katrin, Nachname=Uhlig, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004733, Redenanzahl=20, Vorname=Erhard, Nachname=Grundl, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003888, Redenanzahl=20, Vorname=Wolfgang, Nachname=Strengmann-Kuhn, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004169, Redenanzahl=20, Vorname=Stephan, Nachname=Stracke, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005031, Redenanzahl=20, Vorname=Dirk, Nachname=Brandes, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005085, Redenanzahl=20, Vorname=Susanne, Nachname=Hierl, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004353, Redenanzahl=20, Vorname=Irene, Nachname=Mihalic, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004603, Redenanzahl=20, Vorname=Jens, Nachname=Zimmermann, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004413, Redenanzahl=20, Vorname=Martina, Nachname=Stamm-Fibich, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005034, Redenanzahl=20, Vorname=Frank, Nachname=Bsirske, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005063, Redenanzahl=20, Vorname=Jonas, Nachname=Geissler, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004429, Redenanzahl=20, Vorname=Julia, Nachname=Verlinden, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004241, Redenanzahl=20, Vorname=Stephan, Nachname=Albani, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004883, Redenanzahl=20, Vorname=Felix, Nachname=Schreiner, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005162, Redenanzahl=20, Vorname=Sascha, Nachname=Müller, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005248, Redenanzahl=20, Vorname=Johannes, Nachname=Wagner, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004366, Redenanzahl=20, Vorname=Florian, Nachname=Oßner, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005203, Redenanzahl=19, Vorname=Bernd, Nachname=Schattner, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005173, Redenanzahl=19, Vorname=Julian, Nachname=Pahlke, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005149, Redenanzahl=19, Vorname=Susanne, Nachname=Menge, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005110, Redenanzahl=19, Vorname=Anne, Nachname=König, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005038, Redenanzahl=19, Vorname=Hakan, Nachname=Demir, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004426, Redenanzahl=19, Vorname=Carsten, Nachname=Träger, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003764, Redenanzahl=19, Vorname=Britta, Nachname=Haßelmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005002, Redenanzahl=19, Vorname=Knut, Nachname=Abraham, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005185, Redenanzahl=19, Vorname=Markus, Nachname=Reichel, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004070, Redenanzahl=19, Vorname=Sven-Christian, Nachname=Kindler, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004948, Redenanzahl=19, Vorname=Peter, Nachname=Heidt, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005070, Redenanzahl=19, Vorname=Armin, Nachname=Grau, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005069, Redenanzahl=19, Vorname=Ingeborg, Nachname=Gräßle, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005144, Redenanzahl=19, Vorname=Franziska, Nachname=Mascheck, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004845, Redenanzahl=19, Vorname=Josef, Nachname=Oster, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005267, Redenanzahl=19, Vorname=Armand, Nachname=Zorn, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004311, Redenanzahl=19, Vorname=Erich, Nachname=Irlstorfer, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005051, Redenanzahl=19, Vorname=Heike, Nachname=Engelhardt, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004922, Redenanzahl=19, Vorname=Andrew, Nachname=Ullmann, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005168, Redenanzahl=19, Vorname=Brian, Nachname=Nickholz, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005268, Redenanzahl=19, Vorname=Katrin, Nachname=Zschau, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005097, Redenanzahl=19, Vorname=Carlos, Nachname=Kasper, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005066, Redenanzahl=19, Vorname=Hannes, Nachname=Gnauck, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004012, Redenanzahl=19, Vorname=Matthias W., Nachname=Birkwald, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005139, Redenanzahl=19, Vorname=Erik, Nachname=Malottki, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004282, Redenanzahl=19, Vorname=Uli, Nachname=Grötsch, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004710, Redenanzahl=19, Vorname=Wiebke, Nachname=Esdar, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003846, Redenanzahl=19, Vorname=Frank, Nachname=Schwabe, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004959, Redenanzahl=18, Vorname=Dorothee, Nachname=Martin, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005052, Redenanzahl=18, Vorname=Martina, Nachname=Englhardt-Kopf, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005041, Redenanzahl=18, Vorname=Jan, Nachname=Dieren, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004443, Redenanzahl=18, Vorname=Kai, Nachname=Whittaker, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005159, Redenanzahl=18, Vorname=Maximilian, Nachname=Mörseburg, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005001, Redenanzahl=18, Vorname=Valentin, Nachname=Abel, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005256, Redenanzahl=18, Vorname=Lena, Nachname=Werner, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005177, Redenanzahl=18, Vorname=Natalie, Nachname=Pawlik, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005004, Redenanzahl=18, Vorname=Stephanie, Nachname=Aeffner, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003742, Redenanzahl=18, Vorname=Michael, Nachname=Brand, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005223, Redenanzahl=18, Vorname=Rainer, Nachname=Semet, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004764, Redenanzahl=18, Vorname=Johannes, Nachname=Huber, Partei=Parteilos, Fraktion=Fraktionslos}}
+Document{{_id=11004936, Redenanzahl=18, Vorname=Christian, Nachname=Wirth, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005077, Redenanzahl=18, Vorname=Frauke, Nachname=Heiligenstadt, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004741, Redenanzahl=18, Vorname=Thomas, Nachname=Heilmann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005140, Redenanzahl=18, Vorname=Holger, Nachname=Mann, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004798, Redenanzahl=18, Vorname=Alexander, Nachname=Lambsdorff, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005014, Redenanzahl=17, Vorname=Carolin, Nachname=Bachmann, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11003636, Redenanzahl=17, Vorname=Thomas, Nachname=Silberhorn, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005105, Redenanzahl=17, Vorname=Helmut, Nachname=Kleebank, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005104, Redenanzahl=17, Vorname=Misbah, Nachname=Khan, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004666, Redenanzahl=17, Vorname=Jens, Nachname=Beeck, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005205, Redenanzahl=17, Vorname=Christiane, Nachname=Schenderlein, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005188, Redenanzahl=17, Vorname=Ye-One, Nachname=Rhie, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005134, Redenanzahl=17, Vorname=Max, Nachname=Lucks, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004950, Redenanzahl=17, Vorname=Joe, Nachname=Weingarten, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005172, Redenanzahl=17, Vorname=Karoline, Nachname=Otte, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003545, Redenanzahl=17, Vorname=Bettina, Nachname=Hagedorn, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004912, Redenanzahl=17, Vorname=Hermann-Josef, Nachname=Tebroke, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004229, Redenanzahl=17, Vorname=Hagen, Nachname=Reinhold, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004257, Redenanzahl=17, Vorname=Lars, Nachname=Castellucci, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005128, Redenanzahl=17, Vorname=Luiza, Nachname=Licina-Bode, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005265, Redenanzahl=17, Vorname=Kay-Uwe, Nachname=Ziegler, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004336, Redenanzahl=17, Vorname=Silke, Nachname=Launert, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005075, Redenanzahl=17, Vorname=Philipp, Nachname=Hartewig, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005155, Redenanzahl=17, Vorname=Boris, Nachname=Mijatović, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004881, Redenanzahl=17, Vorname=Johannes, Nachname=Schraps, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004270, Redenanzahl=17, Vorname=Johannes, Nachname=Fechner, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005150, Redenanzahl=17, Vorname=Anikó, Nachname=Glogowski-Merten, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005273, Redenanzahl=17, Vorname=Claudia, Nachname=Raffelhüschen, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005157, Redenanzahl=17, Vorname=Matthias, Nachname=Moosdorf, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004941, Redenanzahl=17, Vorname=Gyde, Nachname=Jensen, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005025, Redenanzahl=17, Vorname=Jakob, Nachname=Blankenburg, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004771, Redenanzahl=17, Vorname=Elisabeth, Nachname=Kaiser, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005050, Redenanzahl=17, Vorname=Alexander, Nachname=Engelhard, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005092, Redenanzahl=17, Vorname=Steffen, Nachname=Janich, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004770, Redenanzahl=17, Vorname=Ingmar, Nachname=Jung, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004707, Redenanzahl=17, Vorname=Thomas, Nachname=Ehrhorn, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004719, Redenanzahl=17, Vorname=Dietmar, Nachname=Friedhoff, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005032, Redenanzahl=17, Vorname=Michael, Nachname=Breilmann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004913, Redenanzahl=17, Vorname=Linda, Nachname=Teuteberg, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005181, Redenanzahl=16, Vorname=Jan, Nachname=Plobner, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005182, Redenanzahl=16, Vorname=Martin, Nachname=Plum, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005007, Redenanzahl=16, Vorname=Ali, Nachname=Al-Dailami, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004911, Redenanzahl=16, Vorname=Jessica, Nachname=Tatti, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11003834, Redenanzahl=16, Vorname=Frank, Nachname=Schäffler, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004694, Redenanzahl=16, Vorname=Anna, Nachname=Christmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004849, Redenanzahl=16, Vorname=Victor, Nachname=Perli, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004683, Redenanzahl=16, Vorname=Leni, Nachname=Breymaier, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005259, Redenanzahl=16, Vorname=Tina, Nachname=Winklmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005240, Redenanzahl=16, Vorname=Anja, Nachname=Troff-Schaffarzyk, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005082, Redenanzahl=16, Vorname=Susanne, Nachname=Hennig-Wellsow, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005212, Redenanzahl=16, Vorname=Marlene, Nachname=Schönberger, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004401, Redenanzahl=16, Vorname=Dagmar, Nachname=Schmidt, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005138, Redenanzahl=16, Vorname=Klaus, Nachname=Mack, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003259, Redenanzahl=16, Vorname=Annette, Nachname=Widmann-Mauz, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005000, Redenanzahl=16, Vorname=Sanae, Nachname=Abdi, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005008, Redenanzahl=16, Vorname=Muhanad, Nachname=Al-Halak, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005209, Redenanzahl=16, Vorname=Eugen, Nachname=Schmidt, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11003756, Redenanzahl=16, Vorname=Kai, Nachname=Gehring, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005207, Redenanzahl=16, Vorname=Timo, Nachname=Schisanowski, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005005, Redenanzahl=16, Vorname=Adis, Nachname=Ahmetovic, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005246, Redenanzahl=16, Vorname=Robin, Nachname=Wagener, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005136, Redenanzahl=16, Vorname=Kristine, Nachname=Lütke, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11003514, Redenanzahl=16, Vorname=Gitta, Nachname=Connemann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004003, Redenanzahl=16, Vorname=Christine, Nachname=Aschenberg-Dugnus, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004383, Redenanzahl=15, Vorname=Alexander, Nachname=Radwan, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005184, Redenanzahl=15, Vorname=Henning, Nachname=Rehbaum, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005266, Redenanzahl=15, Vorname=Nicolas, Nachname=Zippelius, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004323, Redenanzahl=15, Vorname=Anja, Nachname=Karliczek, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004388, Redenanzahl=15, Vorname=Dennis, Nachname=Rohde, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005088, Redenanzahl=15, Vorname=Jasmina, Nachname=Hostert, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004355, Redenanzahl=15, Vorname=Susanne, Nachname=Mittag, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004712, Redenanzahl=15, Vorname=Marcus, Nachname=Faber, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004389, Redenanzahl=15, Vorname=Martin, Nachname=Rosemann, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004662, Redenanzahl=15, Vorname=Bernd, Nachname=Baumann, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004405, Redenanzahl=15, Vorname=Kordula, Nachname=Schulz-Asche, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005068, Redenanzahl=15, Vorname=Fabian, Nachname=Gramling, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005204, Redenanzahl=15, Vorname=Johannes, Nachname=Schätzl, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004906, Redenanzahl=15, Vorname=Marie-Agnes, Nachname=Strack-Zimmermann, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004095, Redenanzahl=15, Vorname=Lars, Nachname=Lindemann, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004699, Redenanzahl=15, Vorname=Astrid, Nachname=Damerow, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004848, Redenanzahl=15, Vorname=Sören, Nachname=Pellmann, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004836, Redenanzahl=15, Vorname=Sebastian, Nachname=Münzenmaier, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004829, Redenanzahl=15, Vorname=Axel, Nachname=Müller, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004824, Redenanzahl=15, Vorname=Falko, Nachname=Mohrs, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005250, Redenanzahl=15, Vorname=Hannes, Nachname=Walter, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004931, Redenanzahl=15, Vorname=Nicole, Nachname=Westig, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005192, Redenanzahl=15, Vorname=Jessica, Nachname=Rosenthal, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004263, Redenanzahl=15, Vorname=Katharina, Nachname=Dröge, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005178, Redenanzahl=15, Vorname=Jens, Nachname=Peick, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005249, Redenanzahl=15, Vorname=Maja, Nachname=Wallstein, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004923, Redenanzahl=15, Vorname=Gerald, Nachname=Ullrich, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004773, Redenanzahl=15, Vorname=Kirsten, Nachname=Kappert-Gonther, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003525, Redenanzahl=15, Vorname=Enak, Nachname=Ferlemann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005133, Redenanzahl=14, Vorname=Denise, Nachname=Loop, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004407, Redenanzahl=14, Vorname=Andreas, Nachname=Schwarz, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005224, Redenanzahl=14, Vorname=Nyke, Nachname=Slawik, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005059, Redenanzahl=14, Vorname=Schahina, Nachname=Gambir, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005176, Redenanzahl=14, Vorname=Mathias, Nachname=Papendieck, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004904, Redenanzahl=14, Vorname=Mathias, Nachname=Stein, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004222, Redenanzahl=14, Vorname=Manfred, Nachname=Todtenhausen, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004686, Redenanzahl=14, Vorname=Katrin, Nachname=Budde, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005226, Redenanzahl=14, Vorname=Merle, Nachname=Spellerberg, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005127, Redenanzahl=14, Vorname=Christian, Nachname=Leye, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004395, Redenanzahl=14, Vorname=Ulle, Nachname=Schauws, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005111, Redenanzahl=14, Vorname=Chantal, Nachname=Kopf, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005060, Redenanzahl=14, Vorname=Tessa, Nachname=Ganserer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005252, Redenanzahl=14, Vorname=Melanie, Nachname=Wegling, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004056, Redenanzahl=14, Vorname=Ansgar, Nachname=Heveling, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005202, Redenanzahl=14, Vorname=Rebecca, Nachname=Schamber, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004841, Redenanzahl=14, Vorname=Petra, Nachname=Nicolaisen, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005137, Redenanzahl=14, Vorname=Tanja, Nachname=Machalet, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004673, Redenanzahl=14, Vorname=Marc, Nachname=Biadacz, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004292, Redenanzahl=14, Vorname=Matthias, Nachname=Hauer, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005013, Redenanzahl=14, Vorname=Tobias B., Nachname=Bacherle, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004071, Redenanzahl=14, Vorname=Volkmar, Nachname=Klein, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005098, Redenanzahl=14, Vorname=Anna, Nachname=Kassautzki, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005174, Redenanzahl=14, Vorname=Christos, Nachname=Pantazis, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004246, Redenanzahl=14, Vorname=Ulrike, Nachname=Bahr, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003624, Redenanzahl=14, Vorname=Axel, Nachname=Schäfer, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005029, Redenanzahl=14, Vorname=Gereon, Nachname=Bollmann, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005299, Redenanzahl=13, Vorname=Nils, Nachname=Gründer, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11002666, Redenanzahl=13, Vorname=Hermann, Nachname=Gröhe, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004930, Redenanzahl=13, Vorname=Alice, Nachname=Weidel, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005262, Redenanzahl=13, Vorname=Herbert, Nachname=Wollmann, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004068, Redenanzahl=13, Vorname=Roderich, Nachname=Kiesewetter, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004138, Redenanzahl=13, Vorname=Tabea, Nachname=Rößner, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004661, Redenanzahl=13, Vorname=Nicole, Nachname=Bauer, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005163, Redenanzahl=13, Vorname=Stefan, Nachname=Nacke, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005126, Redenanzahl=13, Vorname=Barbara, Nachname=Benkstein, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005216, Redenanzahl=13, Vorname=Anja, Nachname=Schulz, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004296, Redenanzahl=13, Vorname=Gabriela, Nachname=Heinrich, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004398, Redenanzahl=13, Vorname=Jana, Nachname=Schimke, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004864, Redenanzahl=13, Vorname=Bernd, Nachname=Reuther, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004034, Redenanzahl=13, Vorname=Michael, Nachname=Frieser, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005187, Redenanzahl=13, Vorname=Anja, Nachname=Reinalter, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005231, Redenanzahl=13, Vorname=Nadja, Nachname=Sthamer, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004111, Redenanzahl=13, Vorname=Cornelia, Nachname=Möhring, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005195, Redenanzahl=13, Vorname=Tina, Nachname=Rudolph, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005026, Redenanzahl=13, Vorname=René, Nachname=Bochmann, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005035, Redenanzahl=13, Vorname=Yannick, Nachname=Bury, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004701, Redenanzahl=13, Vorname=Esther, Nachname=Dilcher, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005048, Redenanzahl=13, Vorname=Ralph, Nachname=Edelhäußer, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004392, Redenanzahl=13, Vorname=Bernd, Nachname=Rützel, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005148, Redenanzahl=13, Vorname=Takis, Nachname=Mehmet Ali, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004424, Redenanzahl=13, Vorname=Michael, Nachname=Thews, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004924, Redenanzahl=13, Vorname=Kerstin, Nachname=Vieregge, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005017, Redenanzahl=13, Vorname=Karl, Nachname=Bär, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005107, Redenanzahl=12, Vorname=Kristian, Nachname=Klinck, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005114, Redenanzahl=12, Vorname=Philip, Nachname=Krämer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004295, Redenanzahl=12, Vorname=Dirk, Nachname=Heidenblut, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005062, Redenanzahl=12, Vorname=Manuel, Nachname=Gava, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004921, Redenanzahl=12, Vorname=Markus, Nachname=Töns, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004893, Redenanzahl=12, Vorname=Björn, Nachname=Simon, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003816, Redenanzahl=12, Vorname=Detlef, Nachname=Müller, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004298, Redenanzahl=12, Vorname=Mark, Nachname=Helfrich, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11002765, Redenanzahl=12, Vorname=Norbert, Nachname=Röttgen, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003599, Redenanzahl=12, Vorname=Rolf, Nachname=Mützenich, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004415, Redenanzahl=12, Vorname=Albert, Nachname=Stegemann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004382, Redenanzahl=12, Vorname=Kerstin, Nachname=Radomski, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005210, Redenanzahl=12, Vorname=Jan Wenzel, Nachname=Schmidt, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004736, Redenanzahl=12, Vorname=Mariana Iris, Nachname=Harder-Kühnel, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004947, Redenanzahl=12, Vorname=Nezahat, Nachname=Baradari, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004437, Redenanzahl=12, Vorname=Nina, Nachname=Warken, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003132, Redenanzahl=12, Vorname=Katrin, Nachname=Göring-Eckardt, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005258, Redenanzahl=12, Vorname=Tobias, Nachname=Winkler, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005253, Redenanzahl=12, Vorname=Saskia, Nachname=Weishaupt, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004108, Redenanzahl=12, Vorname=Andreas, Nachname=Mattfeldt, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004146, Redenanzahl=12, Vorname=Patrick, Nachname=Schnieder, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004255, Redenanzahl=12, Vorname=Franziska, Nachname=Brantner, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003790, Redenanzahl=12, Vorname=Jan, Nachname=Korte, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005130, Redenanzahl=12, Vorname=Anja, Nachname=Liebert, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004862, Redenanzahl=12, Vorname=Martin Erwin, Nachname=Renner, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005037, Redenanzahl=12, Vorname=Mario, Nachname=Czaja, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005087, Redenanzahl=12, Vorname=Franziska, Nachname=Hoppermann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004123, Redenanzahl=12, Vorname=Konstantin, Nachname=Notz, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004856, Redenanzahl=12, Vorname=Jürgen, Nachname=Pohl, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005122, Redenanzahl=12, Vorname=Andreas, Nachname=Larem, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004390, Redenanzahl=11, Vorname=Corinna, Nachname=Rüffer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005096, Redenanzahl=11, Vorname=Macit, Nachname=Karaahmetoğlu, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005119, Redenanzahl=11, Vorname=Kevin, Nachname=Kühnert, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004305, Redenanzahl=11, Vorname=Hendrik, Nachname=Hoppenstedt, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005055, Redenanzahl=11, Vorname=Emilia, Nachname=Fester, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005152, Redenanzahl=11, Vorname=Swantje Henrike, Nachname=Michaelsen, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003821, Redenanzahl=11, Vorname=Henning, Nachname=Otte, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004654, Redenanzahl=11, Vorname=Renata, Nachname=Alt, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004278, Redenanzahl=11, Vorname=Matthias, Nachname=Gastel, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004846, Redenanzahl=11, Vorname=Gerold, Nachname=Otten, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11003218, Redenanzahl=11, Vorname=Carsten, Nachname=Schneider, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004139, Redenanzahl=11, Vorname=Erwin, Nachname=Rüddel, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004113, Redenanzahl=11, Vorname=Dietrich, Nachname=Monstadt, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004332, Redenanzahl=11, Vorname=Carsten, Nachname=Körber, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005237, Redenanzahl=11, Vorname=Awet, Nachname=Tesfaiesus, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003830, Redenanzahl=11, Vorname=Sönke, Nachname=Rix, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005254, Redenanzahl=11, Vorname=Maria-Lena, Nachname=Weiss, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005171, Redenanzahl=11, Vorname=Moritz, Nachname=Oppelt, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004063, Redenanzahl=11, Vorname=Oliver, Nachname=Kaczmarek, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005169, Redenanzahl=11, Vorname=Jörg, Nachname=Nürnberger, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004800, Redenanzahl=11, Vorname=Jens, Nachname=Lehmann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004932, Redenanzahl=11, Vorname=Harald, Nachname=Weyel, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005040, Redenanzahl=11, Vorname=Martin, Nachname=Diedenhofen, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005189, Redenanzahl=11, Vorname=Frank, Nachname=Rinck, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004073, Redenanzahl=11, Vorname=Axel, Nachname=Knoerig, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003544, Redenanzahl=11, Vorname=Olav, Nachname=Gutting, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004226, Redenanzahl=11, Vorname=Wolfgang, Nachname=Hellmich, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003264, Redenanzahl=11, Vorname=Klaus-Peter, Nachname=Willsch, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004714, Redenanzahl=11, Vorname=Peter, Nachname=Felser, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11002754, Redenanzahl=11, Vorname=Thomas, Nachname=Rachel, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004039, Redenanzahl=11, Vorname=Michael, Nachname=Gerdes, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005235, Redenanzahl=11, Vorname=Christina, Nachname=Stumpp, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004942, Redenanzahl=11, Vorname=Marja-Liisa, Nachname=Völlers, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004384, Redenanzahl=11, Vorname=Alois, Nachname=Rainer, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003646, Redenanzahl=11, Vorname=Antje, Nachname=Tillmann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004844, Redenanzahl=10, Vorname=Josephine, Nachname=Ortleb, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003212, Redenanzahl=10, Vorname=Claudia, Nachname=Roth, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003782, Redenanzahl=10, Vorname=Josip, Nachname=Juratovic, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005160, Redenanzahl=10, Vorname=Florian, Nachname=Müller, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004010, Redenanzahl=10, Vorname=Peter, Nachname=Beyer, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003890, Redenanzahl=10, Vorname=Christian, Nachname=Hirte, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005057, Redenanzahl=10, Vorname=Fabian, Nachname=Funke, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005199, Redenanzahl=10, Vorname=Ingo, Nachname=Schäfer, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005161, Redenanzahl=10, Vorname=Michael, Nachname=Müller, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004655, Redenanzahl=10, Vorname=Norbert Maria, Nachname=Altenkamp, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005054, Redenanzahl=10, Vorname=Ariane, Nachname=Fäscher, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005093, Redenanzahl=10, Vorname=Anne, Nachname=Janssen, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005153, Redenanzahl=10, Vorname=Kathrin, Nachname=Michel, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005225, Redenanzahl=10, Vorname=Anne Monika, Nachname=Spallek, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005218, Redenanzahl=10, Vorname=Armin, Nachname=Schwarz, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004179, Redenanzahl=10, Vorname=Johannes, Nachname=Vogel, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004880, Redenanzahl=10, Vorname=Jörg, Nachname=Schneider, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005081, Redenanzahl=10, Vorname=Anke, Nachname=Hennig, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005194, Redenanzahl=10, Vorname=Thorsten, Nachname=Rudolph, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004908, Redenanzahl=10, Vorname=Benjamin, Nachname=Strasser, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005193, Redenanzahl=10, Vorname=Thomas, Nachname=Röwekamp, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004283, Redenanzahl=10, Vorname=Oliver, Nachname=Grundmann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003440, Redenanzahl=10, Vorname=Kerstin, Nachname=Griese, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004378, Redenanzahl=10, Vorname=Achim, Nachname=Post, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003802, Redenanzahl=10, Vorname=Michael Georg, Nachname=Link, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004956, Redenanzahl=10, Vorname=Sandra, Nachname=Bubendorfer-Licht, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005183, Redenanzahl=10, Vorname=Volker, Nachname=Redder, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005156, Redenanzahl=10, Vorname=Mike, Nachname=Moncsek, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005043, Redenanzahl=9, Vorname=Felix, Nachname=Döring, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005198, Redenanzahl=9, Vorname=Catarina, Nachname=Santos-Wintz, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003838, Redenanzahl=9, Vorname=Marianne, Nachname=Schieder, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004878, Redenanzahl=9, Vorname=Uwe, Nachname=Schmidt, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004377, Redenanzahl=9, Vorname=Sabine, Nachname=Poschmann, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005061, Redenanzahl=9, Vorname=Martin, Nachname=Gassner-Herz, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005146, Redenanzahl=9, Vorname=Volker, Nachname=Mayer-Lay, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005072, Redenanzahl=9, Vorname=Serap, Nachname=Güler, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003772, Redenanzahl=9, Vorname=Anton, Nachname=Hofreiter, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003573, Redenanzahl=9, Vorname=Gunther, Nachname=Krichbaum, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003206, Redenanzahl=9, Vorname=Petra, Nachname=Pau, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005145, Redenanzahl=9, Vorname=Zoe, Nachname=Mayer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004806, Redenanzahl=9, Vorname=Bernhard, Nachname=Loos, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004168, Redenanzahl=9, Vorname=Dieter, Nachname=Stier, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004412, Redenanzahl=9, Vorname=Svenja, Nachname=Stadler, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005023, Redenanzahl=9, Vorname=Jürgen, Nachname=Berghahn, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003881, Redenanzahl=9, Vorname=Omid, Nachname=Nouripour, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004614, Redenanzahl=9, Vorname=Angelika, Nachname=Glöckner, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004724, Redenanzahl=9, Vorname=Alexander, Nachname=Gauland, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005003, Redenanzahl=9, Vorname=Katja, Nachname=Adler, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004867, Redenanzahl=9, Vorname=Stefan, Nachname=Rouenhoff, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004359, Redenanzahl=9, Vorname=Michelle, Nachname=Müntefering, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004287, Redenanzahl=9, Vorname=Rita, Nachname=Hagl-Kehl, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004746, Redenanzahl=8, Vorname=Torsten, Nachname=Herbst, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005028, Redenanzahl=8, Vorname=Friedhelm, Nachname=Boginski, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005239, Redenanzahl=8, Vorname=Nico, Nachname=Tippelt, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005208, Redenanzahl=8, Vorname=Christoph, Nachname=Schmid, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003582, Redenanzahl=8, Vorname=Patricia, Nachname=Lips, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005211, Redenanzahl=8, Vorname=Daniel, Nachname=Schneider, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005135, Redenanzahl=8, Vorname=Bettina, Nachname=Lugk, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004605, Redenanzahl=8, Vorname=Christian, Nachname=Petry, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003213, Redenanzahl=8, Vorname=Michael, Nachname=Roth, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005120, Redenanzahl=8, Vorname=Sarah, Nachname=Lahrkamp, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004252, Redenanzahl=8, Vorname=André, Nachname=Berghegger, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003734, Redenanzahl=8, Vorname=Thomas, Nachname=Bareiß, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11002733, Redenanzahl=8, Vorname=Michael, Nachname=Meister, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005015, Redenanzahl=8, Vorname=Daniel, Nachname=Baldy, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005125, Redenanzahl=8, Vorname=Jürgen, Nachname=Lenders, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005009, Redenanzahl=8, Vorname=Dagmar, Nachname=Andres, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004949, Redenanzahl=8, Vorname=Isabel, Nachname=Mackensen-Geis, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005213, Redenanzahl=8, Vorname=Christian, Nachname=Schreider, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005116, Redenanzahl=8, Vorname=Martin, Nachname=Kröber, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005170, Redenanzahl=8, Vorname=Lennard, Nachname=Oehl, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004294, Redenanzahl=8, Vorname=Stefan, Nachname=Heck, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004842, Redenanzahl=8, Vorname=Jan Ralf, Nachname=Nolte, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005154, Redenanzahl=8, Vorname=Matthias David, Nachname=Mieves, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005245, Redenanzahl=8, Vorname=Niklas, Nachname=Wagener, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004289, Redenanzahl=8, Vorname=Metin, Nachname=Hakverdi, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003510, Redenanzahl=7, Vorname=Helge, Nachname=Braun, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003199, Redenanzahl=7, Vorname=Dietmar, Nachname=Nietan, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004052, Redenanzahl=7, Vorname=Mechthild, Nachname=Heil, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005255, Redenanzahl=7, Vorname=Stefan, Nachname=Wenzel, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004929, Redenanzahl=7, Vorname=Sandra, Nachname=Weeser, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11003804, Redenanzahl=7, Vorname=Katja, Nachname=Mast, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11000975, Redenanzahl=7, Vorname=Hubert, Nachname=Hüppe, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003758, Redenanzahl=7, Vorname=Martin, Nachname=Gerster, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005304, Redenanzahl=7, Vorname=Alexander, Nachname=Föhr, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004029, Redenanzahl=7, Vorname=Bijan, Nachname=Djir-Sarai, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004036, Redenanzahl=7, Vorname=Ingo, Nachname=Gädechens, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003068, Redenanzahl=7, Vorname=Ekin, Nachname=Deligöz, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004890, Redenanzahl=7, Vorname=Matthias, Nachname=Seestern-Pauly, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005064, Redenanzahl=7, Vorname=Knut, Nachname=Gerschau, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005071, Redenanzahl=7, Vorname=Sabine, Nachname=Grützmacher, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005042, Redenanzahl=7, Vorname=Thomas, Nachname=Dietz, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005046, Redenanzahl=7, Vorname=Axel, Nachname=Echeverria, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005124, Redenanzahl=7, Vorname=Kevin, Nachname=Leiser, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003761, Redenanzahl=7, Vorname=Monika, Nachname=Grütters, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004393, Redenanzahl=7, Vorname=Johann, Nachname=Saathoff, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004915, Redenanzahl=7, Vorname=Hans-Jürgen, Nachname=Thies, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003865, Redenanzahl=7, Vorname=Elisabeth, Nachname=Winkelmeier-Becker, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005027, Redenanzahl=7, Vorname=Ingo, Nachname=Bodtke, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004953, Redenanzahl=7, Vorname=Sylvia, Nachname=Lehmann, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003799, Redenanzahl=7, Vorname=Paul, Nachname=Lehrieder, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004645, Redenanzahl=7, Vorname=Markus, Nachname=Uhl, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004317, Redenanzahl=7, Vorname=Frank, Nachname=Junge, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004387, Redenanzahl=6, Vorname=Andreas, Nachname=Rimkus, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004744, Redenanzahl=6, Vorname=Marc, Nachname=Henrichmann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005006, Redenanzahl=6, Vorname=Reem, Nachname=Alabali-Radovan, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003856, Redenanzahl=6, Vorname=Florian, Nachname=Toncar, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004834, Redenanzahl=6, Vorname=Frank, Nachname=Müller-Rosentritt, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004328, Redenanzahl=6, Vorname=Cansel, Nachname=Kiziltepe, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005166, Redenanzahl=6, Vorname=Edgar, Nachname=Naujok, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004217, Redenanzahl=6, Vorname=Tobias, Nachname=Lindner, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004871, Redenanzahl=6, Vorname=Christian, Nachname=Sauter, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004261, Redenanzahl=6, Vorname=Sabine, Nachname=Dittmar, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003715, Redenanzahl=6, Vorname=Lars, Nachname=Klingbeil, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004423, Redenanzahl=6, Vorname=Claudia, Nachname=Tausend, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003597, Redenanzahl=6, Vorname=Stefan, Nachname=Müller, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004938, Redenanzahl=6, Vorname=Paul, Nachname=Ziemiak, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005076, Redenanzahl=6, Vorname=Ulrike, Nachname=Harzer, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005044, Redenanzahl=6, Vorname=Falko, Nachname=Droßmann, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004081, Redenanzahl=5, Vorname=Oliver, Nachname=Krischer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004271, Redenanzahl=5, Vorname=Uwe, Nachname=Feiler, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004333, Redenanzahl=5, Vorname=Christian, Nachname=Kühn, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004397, Redenanzahl=5, Vorname=Udo, Nachname=Schiefner, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005298, Redenanzahl=5, Vorname=Michael, Nachname=Sacher, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004269, Redenanzahl=5, Vorname=Hermann, Nachname=Färber, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004801, Redenanzahl=5, Vorname=Sven, Nachname=Lehmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004639, Redenanzahl=5, Vorname=Jürgen, Nachname=Coße, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005121, Redenanzahl=5, Vorname=Ricarda, Nachname=Lang, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003162, Redenanzahl=5, Vorname=Anette, Nachname=Kramme, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004352, Redenanzahl=5, Vorname=Jan, Nachname=Metzler, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004750, Redenanzahl=5, Vorname=Katja, Nachname=Hessel, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11003847, Redenanzahl=5, Vorname=Rita, Nachname=Schwarzelühr-Sutter, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004267, Redenanzahl=5, Vorname=Saskia, Nachname=Esken, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005301, Redenanzahl=5, Vorname=Alexander, Nachname=Bartz, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003542, Redenanzahl=5, Vorname=Markus, Nachname=Grübel, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005244, Redenanzahl=5, Vorname=Oliver, Nachname=Vogt, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004150, Redenanzahl=5, Vorname=Stefan, Nachname=Schwartze, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004617, Redenanzahl=5, Vorname=Ronja, Nachname=Kemmer, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11002718, Redenanzahl=5, Vorname=Armin, Nachname=Laschet, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004136, Redenanzahl=5, Vorname=Josef, Nachname=Rief, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003585, Redenanzahl=5, Vorname=Anna, Nachname=Lührmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004243, Redenanzahl=5, Vorname=Luise, Nachname=Amtsberg, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004690, Redenanzahl=5, Vorname=Karlheinz, Nachname=Busen, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11005175, Redenanzahl=5, Vorname=Wiebke, Nachname=Papenbrock, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004021, Redenanzahl=4, Vorname=Ralph, Nachname=Brinkhaus, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004433, Redenanzahl=4, Vorname=Dirk, Nachname=Vöpel, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004676, Redenanzahl=4, Vorname=Jens, Nachname=Brandenburg, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004914, Redenanzahl=4, Vorname=Michael, Nachname=Theurer, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004102, Redenanzahl=4, Vorname=Oliver, Nachname=Luksic, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004331, Redenanzahl=4, Vorname=Markus, Nachname=Koob, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003541, Redenanzahl=4, Vorname=Michael, Nachname=Grosse-Brömer, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004124, Redenanzahl=4, Vorname=Aydan, Nachname=Özoğuz, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11001235, Redenanzahl=4, Vorname=Wolfgang, Nachname=Kubicki, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004067, Redenanzahl=4, Vorname=Katja, Nachname=Keul, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003655, Redenanzahl=4, Vorname=Marco, Nachname=Wanderwitz, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005222, Redenanzahl=4, Vorname=Melis, Nachname=Sekmen, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004784, Redenanzahl=4, Vorname=Daniela, Nachname=Kluckert, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004825, Redenanzahl=4, Vorname=Claudia, Nachname=Moll, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004358, Redenanzahl=4, Vorname=Bettina, Nachname=Müller, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004303, Redenanzahl=4, Vorname=Thomas, Nachname=Hitschler, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004346, Redenanzahl=4, Vorname=Yvonne, Nachname=Magwas, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004866, Redenanzahl=4, Vorname=Manuela, Nachname=Rottmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005167, Redenanzahl=3, Vorname=Ophelia, Nachname=Nick, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11005101, Redenanzahl=3, Vorname=Rainer Johannes, Nachname=Keller, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003496, Redenanzahl=3, Vorname=Sören, Nachname=Bartol, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004739, Redenanzahl=3, Vorname=Jochen, Nachname=Haug, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11005302, Redenanzahl=3, Vorname=Emily, Nachname=Vontz, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004098, Redenanzahl=3, Vorname=Carsten, Nachname=Linnemann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005308, Redenanzahl=3, Vorname=Christian, Nachname=Bartelt, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004622, Redenanzahl=3, Vorname=Sarah, Nachname=Ryglewski, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003551, Redenanzahl=3, Vorname=Michael, Nachname=Hennrich, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004183, Redenanzahl=3, Vorname=Sahra, Nachname=Wagenknecht, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11005306, Redenanzahl=3, Vorname=Ana-Maria, Nachname=Trăsnea, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004670, Redenanzahl=3, Vorname=Melanie, Nachname=Bernstein, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003789, Redenanzahl=3, Vorname=Jens, Nachname=Koeppen, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004826, Redenanzahl=3, Vorname=Siemtje, Nachname=Möller, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005179, Redenanzahl=3, Vorname=Andreas, Nachname=Philippi, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004830, Redenanzahl=3, Vorname=Claudia, Nachname=Müller, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004325, Redenanzahl=3, Vorname=Gabriele, Nachname=Katzmarek, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005033, Redenanzahl=3, Vorname=Marlon, Nachname=Bröhr, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004677, Redenanzahl=3, Vorname=Mario, Nachname=Brandenburg, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004684, Redenanzahl=2, Vorname=Carsten, Nachname=Brodesser, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003786, Redenanzahl=2, Vorname=Katja, Nachname=Kipping, Partei=DIE LINKE., Fraktion=Fraktion DIE LINKE.}}
+Document{{_id=11004756, Redenanzahl=2, Vorname=Bettina, Nachname=Hoffmann, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11003620, Redenanzahl=2, Vorname=Albert, Nachname=Rupprecht, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004187, Redenanzahl=2, Vorname=Sabine, Nachname=Weiss, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004368, Redenanzahl=2, Vorname=Mahmut, Nachname=Özdemir, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003710, Redenanzahl=2, Vorname=Bärbel, Nachname=Kofler, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11003639, Redenanzahl=2, Vorname=Christian, Nachname=Stetten, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003643, Redenanzahl=2, Vorname=Gero, Nachname=Storjohann, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003896, Redenanzahl=2, Vorname=Eva, Nachname=Högl, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11002667, Redenanzahl=2, Vorname=Manfred, Nachname=Grund, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11003153, Redenanzahl=2, Vorname=Klaus, Nachname=Holetschek, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004713, Redenanzahl=1, Vorname=Yasmin, Nachname=Fahimi, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004809, Redenanzahl=1, Vorname=Heiko, Nachname=Maas, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004006, Redenanzahl=1, Vorname=Bärbel, Nachname=Bas, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004386, Redenanzahl=1, Vorname=Daniela, Nachname=De Ridder, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004019, Redenanzahl=1, Vorname=Heike, Nachname=Brehmer, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004221, Redenanzahl=1, Vorname=Beate, Nachname=Walter-Rosenheimer, Partei=BÜNDNIS 90/DIE GRÜNEN, Fraktion=Fraktion BÜNDNIS 90/DIE GRÜNEN}}
+Document{{_id=11004033, Redenanzahl=1, Vorname=Edgar, Nachname=Franke, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004952, Redenanzahl=1, Vorname=Reginald, Nachname=Hanke, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11003610, Redenanzahl=1, Vorname=Andreas, Nachname=Pinkwart, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11004254, Redenanzahl=1, Vorname=Burkhard, Nachname=Blienert, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11005305, Redenanzahl=1, Vorname=Rainer, Nachname=Rothfuß, Partei=AfD, Fraktion=Alternative für Deutschland}}
+Document{{_id=11004149, Redenanzahl=1, Vorname=Armin, Nachname=Schuster, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11005243, Redenanzahl=1, Vorname=Frank, Nachname=Ullrich, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004425, Redenanzahl=1, Vorname=Astrid, Nachname=Timmermann-Fechter, Partei=CDU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004937, Redenanzahl=1, Vorname=Uwe, Nachname=Witt, Partei=Parteilos, Fraktion=Fraktionslos}}
+Document{{_id=11003625, Redenanzahl=1, Vorname=Andreas, Nachname=Scheuer, Partei=CSU, Fraktion=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union}}
+Document{{_id=11004783, Redenanzahl=1, Vorname=Katharina, Nachname=Willkomm, Partei=FDP, Fraktion=Fraktion der Freien Demokratischen Partei}}
+Document{{_id=11003732, Redenanzahl=1, Vorname=Niels, Nachname=Annen, Partei=SPD, Fraktion=Fraktion der Sozialdemokratischen Partei Deutschlands}}
+Document{{_id=11004888, Redenanzahl=1, Vorname=Uwe, Nachname=Schulz, Partei=AfD, Fraktion=Alternative für Deutschland}}

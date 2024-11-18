@@ -1,0 +1,213 @@
+WP 1
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 2
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 3
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 4
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 5
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 6
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 7
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 8
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 9
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 10
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 11
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 12
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 13
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 14
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 15
+    Präsident*innen:
+    Vizepräsident*innen:
+        FDP
+            Dr. Hermann Otto Solms, FDP
+        SPD
+            Dr. h. c. Susanne Kastner, SPD
+        CDU
+            Dr. Norbert Lammert, CDU
+        BÜNDNIS 90/DIE GRÜNEN
+            Dr. Antje Vollmer, BÜNDNIS 90/DIE GRÜNEN
+    Schriftführer*innen:
+WP 16
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 17
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 18
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 19
+    Präsident*innen:
+    Vizepräsident*innen:
+    Schriftführer*innen:
+WP 20
+    Präsident*innen:
+        CDU
+            Dr. Wolfgang Schäuble, CDU
+        SPD
+            Bärbel Bas, SPD
+    Vizepräsident*innen:
+        FDP
+            Wolfgang Kubicki, FDP
+        CDU
+            Yvonne Magwas, CDU
+        SPD
+            Aydan Özoğuz, SPD
+        DIE LINKE.
+            Petra Pau, DIE LINKE.
+        BÜNDNIS 90/DIE GRÜNEN
+            Katrin Göring-Eckardt, BÜNDNIS 90/DIE GRÜNEN
+            Claudia Roth, BÜNDNIS 90/DIE GRÜNEN
+    Schriftführer*innen:
+        FDP
+            Christian Sauter, FDP
+            Claudia Raffelhüschen, FDP
+            Valentin Abel, FDP
+            Peter Heidt, FDP
+            Benjamin Strasser, FDP
+            Nico Tippelt, FDP
+            Sandra Bubendorfer-Licht, FDP
+            Ulrich Lechte, FDP
+            Anikó Glogowski-Merten, FDP
+            Katja Adler, FDP
+            Rainer Semet, FDP
+        SPD
+            Esther Dilcher, SPD
+            Leni Breymaier, SPD
+            Brian Nickholz, SPD
+            Isabel Mackensen-Geis, SPD
+            Heike Engelhardt, SPD
+            Dorothee Martin, SPD
+            Ye-One Rhie, SPD
+            Helmut Kleebank, SPD
+            Thomas Hitschler, SPD
+            Tina Rudolph, SPD
+            Timo Schisanowski, SPD
+            Esra Limbacher, SPD
+            Marja-Liisa Völlers, SPD
+            Derya Türk-Nachbaur, SPD
+            Franziska Mascheck, SPD
+            Dr. Karamba Diaby, SPD
+            Michael Schrodi, SPD
+            Dr. Andreas Philippi, SPD
+            Jan Plobner, SPD
+            Carmen Wegge, SPD
+            Dr. Christos Pantazis, SPD
+            Nezahat Baradari, SPD
+            Daniel Baldy, SPD
+            Carlos Kasper, SPD
+            Mathias Stein, SPD
+            Anja Troff-Schaffarzyk, SPD
+            Claudia Moll, SPD
+            Gülistan Yüksel, SPD
+        CDU
+            Felix Schreiner, CDU
+            Silvia Breher, CDU
+            Björn Simon, CDU
+            Mareike Lotte Wulf, CDU
+            Dr. Markus Reichel, CDU
+            Dr. Ottilie Klein, CDU
+            Axel Müller, CDU
+            Armin Schwarz, CDU
+            Diana Stöcker, CDU
+            Dr. Oliver Vogt, CDU
+            Petra Nicolaisen, CDU
+            Norbert Maria Altenkamp, CDU
+            Dr. Hermann-Josef Tebroke, CDU
+            Anne Janssen, CDU
+            Jens Koeppen, CDU
+            Astrid Damerow, CDU
+            Marc Henrichmann, CDU
+            Kerstin Vieregge, CDU
+            Maria-Lena Weiss, CDU
+            Michael Donth, CDU
+            Josef Oster, CDU
+            Franziska Hoppermann, CDU
+            Nicolas Zippelius, CDU
+        AfD
+            Kay-Uwe Ziegler, AfD
+            Mike Moncsek, AfD
+            Roger Beckamp, AfD
+            Wolfgang Wiehle, AfD
+            Norbert Kleinwächter, AfD
+            Mariana Iris Harder-Kühnel, AfD
+            Carolin Bachmann, AfD
+            Dietmar Friedhoff, AfD
+            Joachim Wundrak, AfD
+            Kay Gottschalk, AfD
+            Jan Ralf Nolte, AfD
+        CSU
+            Artur Auernhammer, CSU
+            Thomas Erndl, CSU
+            Paul Lehrieder, CSU
+            Katrin Staffler, CSU
+            Martina Englhardt-Kopf, CSU
+            Michael Kießling, CSU
+            Ralph Edelhäußer, CSU
+        DIE LINKE.
+            Ina Latendorf, DIE LINKE.
+            Dr. Petra Sitte, DIE LINKE.
+            Gökay Akbulut, DIE LINKE.
+            Christian Leye, DIE LINKE.
+            Christian Görke, DIE LINKE.
+            Jessica Tatti, DIE LINKE.
+            Ates Gürpinar, DIE LINKE.
+        BÜNDNIS 90/DIE GRÜNEN
+            Dr. Zoe Mayer, BÜNDNIS 90/DIE GRÜNEN
+            Dr. Bettina Hoffmann, BÜNDNIS 90/DIE GRÜNEN
+            Linda Heitmann, BÜNDNIS 90/DIE GRÜNEN
+            Niklas Wagener, BÜNDNIS 90/DIE GRÜNEN
+            Kassem Taher Saleh, BÜNDNIS 90/DIE GRÜNEN
+            Deborah Düring, BÜNDNIS 90/DIE GRÜNEN
+            Hanna Steinmüller, BÜNDNIS 90/DIE GRÜNEN
+            Denise Loop, BÜNDNIS 90/DIE GRÜNEN
+            Tina Winklmann, BÜNDNIS 90/DIE GRÜNEN
+            Markus Kurth, BÜNDNIS 90/DIE GRÜNEN
+            Erhard Grundl, BÜNDNIS 90/DIE GRÜNEN
+            Laura Kraft, BÜNDNIS 90/DIE GRÜNEN
+            Christian Kühn, BÜNDNIS 90/DIE GRÜNEN
+            Tabea Rößner, BÜNDNIS 90/DIE GRÜNEN
+            Dr. Anne Monika Spallek, BÜNDNIS 90/DIE GRÜNEN
+            Leon Eckert, BÜNDNIS 90/DIE GRÜNEN

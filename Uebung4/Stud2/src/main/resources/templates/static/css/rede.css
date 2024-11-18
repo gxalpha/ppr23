@@ -1,0 +1,73 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+    font-weight: 400;
+    color: black;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:100px;
+    margin-bottom:50px
+}
+
+#chart-container {
+    text-align: center;
+    margin: auto;
+
+}
+.box{
+    border-radius: 5px;
+    display:block;
+    margin:0;
+    padding:5pt;
+    background-color:#F5F5F5;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+/* Source for tooltips: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_tooltip (with own changes) */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 300px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+/* End tooltips */
+
+.tooltip:hover {
+    background-color: #FFFA19;
+    border-radius: 4px;
+
+
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+td {
+    height: 30px;
+}

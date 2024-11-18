@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD für Bundestagsdrucksachen und Plenarprotokolle -->
+
+<!ELEMENT DOKUMENT (WAHLPERIODE, DOKUMENTART, DRS_TYP?, NR, DATUM, TITEL?, K_URHEBER*, P_URHEBER*, TEXT) >
+	<!-- Attribute, die mit einem * gekennzeichnet sind: 
+					Attribut tritt 0, 1, 2, ... ,n-mal auf.
+	     Attribute, die mit einem ? gekennzeichnet sind: 
+					Attribut tritt 0- oder 1-mal auf.
+	     Attribute ohne Kennzeichnung treten genau 1-mal auf. 
+	-->
+
+<!ELEMENT WAHLPERIODE (#PCDATA)>
+	<!-- Nummer der Wahlperiode des Deutschen Bundestages 
+	    (2-stellig oder 1-stellig (d.h. ohne führende Null)) 
+	-->
+
+<!ELEMENT DOKUMENTART (#PCDATA)>
+	<!-- Dokumentart: Dieses Tag kann die Werte 
+		 DRUCKSACHE oder PLENARPROTOKOLL haben. 
+	-->
+
+<!ELEMENT DRS_TYP (#PCDATA)>
+	<!-- Drucksachentyp (z.B. Antrag, Gesetzentwurf): 
+		 Dieses Tag wird nur für Drucksachen belegt.   
+	-->
+
+<!ELEMENT NR (#PCDATA)>
+	<!-- Die Nummer eines Dokumentes beginnt mit der Wahlperiode (1- oder 2-stellig), 
+	     gefolgt von einem Schrägstrich und der Nummer des Dokumentes innerhalb der 
+		 Wahlperiode; diese Zählung beginnt an Anfang der Wahlperiode bei 1;
+		 z.B. 18/104, 18/4999) 
+	-->
+
+<!ELEMENT DATUM (#PCDATA)>
+	<!-- Bei Drucksachen:	    Datum des Dokumentes, 
+	     bei Plenarprotokollen: Datum des Sitzungstages; 
+		 Format TT.MM.JJJJ 
+	-->
+	
+<!ELEMENT TITEL (#PCDATA)>
+	<!-- Bei Drucksachen:       Titel der Drucksache, 
+		 bei Plenarprotokollen: Plenarprotokoll vom xx.xx.xxxx  
+	-->
+
+<!ELEMENT K_URHEBER (#PCDATA)>
+	<!-- Nur für Drucksachen:   Körperschaftlicher Urheber 
+								z.B. Bundesregierung, Fraktion ..., 
+								Bundesministerium für ...) 
+	-->
+
+<!ELEMENT P_URHEBER (#PCDATA)>
+	<!-- Persönlicher Urheber (nur für Drucksachen): Abgeordnete/r, 
+		 der/die die Drucksache verfasst bzw. unterschrieben hat.
+		 Schreibweise der Abgeordnetennamen: Nachname, Vorname. 
+		 Die Persönlichen Urheber von schriftlichen Fragen und 
+		 Fragen für die Fragestunde werden nicht erfasst.
+	-->
+
+<!ELEMENT TEXT (#PCDATA)>
+	<!-- Text des Dokumentes (aus PDF)  
+	-->
+

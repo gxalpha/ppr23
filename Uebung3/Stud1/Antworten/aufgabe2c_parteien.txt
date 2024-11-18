@@ -1,0 +1,9 @@
+Document{{_id=Parteilos, Durchschnittliche Länge=380.4}}
+Document{{_id=DIE LINKE., Durchschnittliche Länge=466.0881383855025}}
+Document{{_id=FDP, Durchschnittliche Länge=554.2483285577841}}
+Document{{_id=SSW, Durchschnittliche Länge=317.7674418604651}}
+Document{{_id=AfD, Durchschnittliche Länge=475.9755849440488}}
+Document{{_id=CSU, Durchschnittliche Länge=609.1686390532544}}
+Document{{_id=CDU, Durchschnittliche Länge=650.9592544429996}}
+Document{{_id=SPD, Durchschnittliche Länge=646.3060808844923}}
+Document{{_id=BÜNDNIS 90/DIE GRÜNEN, Durchschnittliche Länge=532.7654320987655}}

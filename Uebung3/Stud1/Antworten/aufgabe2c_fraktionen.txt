@@ -1,0 +1,7 @@
+Document{{_id=Fraktionslos, Durchschnittliche Länge=313.6442307692308}}
+Document{{_id=Fraktion der Freien Demokratischen Partei, Durchschnittliche Länge=554.2483285577841}}
+Document{{_id=Fraktion DIE LINKE., Durchschnittliche Länge=466.0881383855025}}
+Document{{_id=Alternative für Deutschland, Durchschnittliche Länge=488.54426941879416}}
+Document{{_id=Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union, Durchschnittliche Länge=638.199337548931}}
+Document{{_id=Fraktion der Sozialdemokratischen Partei Deutschlands, Durchschnittliche Länge=646.3060808844923}}
+Document{{_id=Fraktion BÜNDNIS 90/DIE GRÜNEN, Durchschnittliche Länge=532.7654320987655}}

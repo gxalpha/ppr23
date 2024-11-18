@@ -1,0 +1,140 @@
+
+
+************************************************************************************************************************
+ALLE ERFASSTEN PRÄSIDENTEN, STELLVERTRETENDE PRÄSIDENTEN ODER SCHRIFTFÜHRER - GEORDNET NACH PARTEI
+************************************************************************************************************************
+
+ -- HINWEIS: Parteien ohne Abgeordneten mit solchen Positionen werden nicht aufgeführt. -- 
+
+------------------------------------------------------------------------------------------------------------------------
+BÜNDNIS 90/DIE GRÜNEN
+------------------------------------------------------------------------------------------------------------------------
+ID11004733 - Erhard Grundl                            - WP20: Schriftführer
+ID11005045 - Deborah Düring                           - WP20: Schriftführer
+ID11003212 - Claudia Roth                             - WP20: Vizepräsidentin des Deutschen Bundestages
+ID11005133 - Denise Loop                              - WP20: Schriftführer
+ID11003132 - Katrin Göring-Eckardt                    - WP20: Vizepräsidentin des Deutschen Bundestages
+ID11005245 - Niklas Wagener                           - WP20: Schriftführer
+ID11004138 - Tabea Rößner                             - WP20: Schriftführer
+ID11005078 - Linda Heitmann                           - WP20: Schriftführer
+ID11005259 - Tina Winklmann                           - WP20: Schriftführer
+ID11005225 - Anne Monika Spallek                      - WP20: Schriftführer
+ID11005230 - Hanna Steinmüller                        - WP20: Schriftführer
+ID11005197 - Kassem Taher Saleh                       - WP20: Schriftführer
+ID11003578 - Markus Kurth                             - WP20: Schriftführer
+ID11004333 - Christian Kühn                           - WP20: Schriftführer
+ID11005145 - Zoe Mayer                                - WP20: Schriftführer
+ID11004756 - Bettina Hoffmann                         - WP20: Schriftführer
+ID11005113 - Laura Kraft                              - WP20: Schriftführer
+ID11005047 - Leon Eckert                              - WP20: Schriftführer
+------------------------------------------------------------------------------------------------------------------------
+AFD
+------------------------------------------------------------------------------------------------------------------------
+ID11004736 - Mariana Iris Harder-Kühnel               - WP20: Schriftführer
+ID11005020 - Roger Beckamp                            - WP20: Schriftführer
+ID11005014 - Carolin Bachmann                         - WP20: Schriftführer
+ID11004933 - Wolfgang Wiehle                          - WP20: Schriftführer
+ID11005264 - Joachim Wundrak                          - WP20: Schriftführer
+ID11004719 - Dietmar Friedhoff                        - WP20: Schriftführer
+ID11004781 - Norbert Kleinwächter                     - WP20: Schriftführer
+ID11004842 - Jan Ralf Nolte                           - WP20: Schriftführer
+ID11005265 - Kay-Uwe Ziegler                          - WP20: Schriftführer
+ID11004731 - Kay Gottschalk                           - WP20: Schriftführer
+ID11005156 - Mike Moncsek                             - WP20: Schriftführer
+------------------------------------------------------------------------------------------------------------------------
+SPD
+------------------------------------------------------------------------------------------------------------------------
+ID11004124 - Aydan Özoğuz                             - WP20: Vizepräsidentin des Deutschen Bundestages
+ID11005174 - Christos Pantazis                        - WP20: Schriftführer
+ID11004303 - Thomas Hitschler                         - WP20: Schriftführer
+ID11005015 - Daniel Baldy                             - WP20: Schriftführer
+ID11005131 - Esra Limbacher                           - WP20: Schriftführer
+ID11004683 - Leni Breymaier                           - WP20: Schriftführer
+ID11004942 - Marja-Liisa Völlers                      - WP20: Schriftführer
+ID11005241 - Derya Türk-Nachbaur                      - WP20: Schriftführer
+ID11005251 - Carmen Wegge                             - WP20: Schriftführer
+ID11005097 - Carlos Kasper                            - WP20: Schriftführer
+ID11004904 - Mathias Stein                            - WP20: Schriftführer
+ID11005188 - Ye-One Rhie                              - WP20: Schriftführer
+ID11005207 - Timo Schisanowski                        - WP20: Schriftführer
+ID11005181 - Jan Plobner                              - WP20: Schriftführer
+ID11004006 - Bärbel Bas                               - WP20: Präsidentin des Deutschen Bundestages
+ID11005144 - Franziska Mascheck                       - WP20: Schriftführer
+ID11004825 - Claudia Moll                             - WP20: Schriftführer
+ID11005179 - Andreas Philippi                         - WP20: Schriftführer
+ID11004448 - Gülistan Yüksel                          - WP20: Obfrau (Schriftführer)
+ID11005240 - Anja Troff-Schaffarzyk                   - WP20: Schriftführer
+ID11005168 - Brian Nickholz                           - WP20: Schriftführer
+ID11004701 - Esther Dilcher                           - WP20: Schriftführer
+ID11004949 - Isabel Mackensen-Geis                    - WP20: Schriftführer
+ID11004884 - Michael Schrodi                          - WP20: Schriftführer
+ID11005105 - Helmut Kleebank                          - WP20: Schriftführer
+ID11004259 - Karamba Diaby                            - WP20: Schriftführer
+ID11005051 - Heike Engelhardt                         - WP20: Schriftführer
+ID11005195 - Tina Rudolph                             - WP20: Schriftführer
+ID11004959 - Dorothee Martin                          - WP20: Schriftführer
+ID11004947 - Nezahat Baradari                         - WP20: Schriftführer
+------------------------------------------------------------------------------------------------------------------------
+CSU
+------------------------------------------------------------------------------------------------------------------------
+ID11005048 - Ralph Edelhäußer                         - WP20: Schriftführer
+ID11005052 - Martina Englhardt-Kopf                   - WP20: Schriftführer
+ID11003799 - Paul Lehrieder                           - WP20: Schriftführer
+ID11004709 - Thomas Erndl                             - WP20: Schriftführer
+ID11004901 - Katrin Staffler                          - WP20: Schriftführer
+ID11003706 - Artur Auernhammer                        - WP20: Schriftführer
+ID11004779 - Michael Kießling                         - WP20: Schriftführer
+------------------------------------------------------------------------------------------------------------------------
+CDU
+------------------------------------------------------------------------------------------------------------------------
+ID11003789 - Jens Koeppen                             - WP20: Schriftführer
+ID11004346 - Yvonne Magwas                            - WP20: Vizepräsidentin des Deutschen Bundestages
+ID11004699 - Astrid Damerow                           - WP20: Schriftführer
+ID11005266 - Nicolas Zippelius                        - WP20: Schriftführer
+ID11005233 - Diana Stöcker                            - WP20: Schriftführer
+ID11004829 - Axel Müller                              - WP20: Schriftführer
+ID11005087 - Franziska Hoppermann                     - WP20: Schriftführer
+ID11001938 - Wolfgang Schäuble                        - WP20: Alterspräsident
+ID11004744 - Marc Henrichmann                         - WP20: Schriftführer
+ID11005093 - Anne Janssen                             - WP20: Schriftführer
+ID11005244 - Oliver Vogt                              - WP20: Schriftführer
+ID11005218 - Armin Schwarz                            - WP20: Schriftführer
+ID11004655 - Norbert Maria Altenkamp                  - WP20: Schriftführer
+ID11004924 - Kerstin Vieregge                         - WP20: Schriftführer
+ID11005106 - Ottilie Klein                            - WP20: Schriftführer
+ID11004845 - Josef Oster                              - WP20: Schriftführer
+ID11004841 - Petra Nicolaisen                         - WP20: Schriftführer
+ID11005254 - Maria-Lena Weiss                         - WP20: Schriftführer
+ID11004883 - Felix Schreiner                          - WP20: Schriftführer
+ID11004262 - Michael Donth                            - WP20: Schriftführer
+ID11005263 - Mareike Lotte Wulf                       - WP20: Schriftführer
+ID11005185 - Markus Reichel                           - WP20: Schriftführer
+ID11004912 - Hermann-Josef Tebroke                    - WP20: Schriftführer
+ID11004681 - Silvia Breher                            - WP20: Schriftführer
+ID11004893 - Björn Simon                              - WP20: Schriftführer
+------------------------------------------------------------------------------------------------------------------------
+FDP
+------------------------------------------------------------------------------------------------------------------------
+ID11004908 - Benjamin Strasser                        - WP20: Schriftführer
+ID11004799 - Ulrich Lechte                            - WP20: Schriftführer
+ID11004948 - Peter Heidt                              - WP20: Schriftführer
+ID11005239 - Nico Tippelt                             - WP20: Schriftführer
+ID11004871 - Christian Sauter                         - WP20: Schriftführer
+ID11005223 - Rainer Semet                             - WP20: Schriftführer
+ID11005273 - Claudia Raffelhüschen                    - WP20: Schriftführer
+ID11005001 - Valentin Abel                            - WP20: Schriftführer
+ID11005150 - Anikó Glogowski-Merten                   - WP20: Schriftführer
+ID11004956 - Sandra Bubendorfer-Licht                 - WP20: Schriftführer
+ID11005003 - Katja Adler                              - WP20: Schriftführer
+ID11001235 - Wolfgang Kubicki                         - WP20: Vizepräsident des Deutschen Bundestages
+------------------------------------------------------------------------------------------------------------------------
+DIE LINKE.
+------------------------------------------------------------------------------------------------------------------------
+ID11003206 - Petra Pau                                - WP20: Vizepräsidentin des Deutschen Bundestages
+ID11005067 - Christian Görke                          - WP20: Schriftführer
+ID11005073 - Ates Gürpinar                            - WP20: Schriftführer
+ID11004911 - Jessica Tatti                            - WP20: Schriftführer
+ID11005127 - Christian Leye                           - WP20: Schriftführer
+ID11003848 - Petra Sitte                              - WP20: Schriftführer
+ID11005123 - Ina Latendorf                            - WP20: Schriftführer
+ID11004653 - Gökay Akbulut                            - WP20: Schriftführer
