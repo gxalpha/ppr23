@@ -1,0 +1,28 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.containerHeader {
+    display: flex; /* Verwendet Flexbox für das Layout */
+    align-items: center; /* Zentriert Elemente vertikal */
+    height: 120px;
+    background-color: white;
+}
+
+.containerHeader img {
+    margin-right: 10px; /* Fügt einen Abstand zwischen dem Bild und der Überschrift hinzu */
+    max-width: 100px; /* Begrenzt die maximale Breite des Bildes */
+}
+
+@media (max-width: 768px) {
+    .h1Header {
+        font-size: 1.5rem; /* Schriftgröße für kleine Bildschirme */
+    }
+
+    .h2Header {
+        font-size: 1.5rem; /* Schriftgröße für kleine Bildschirme */
+    }
+}
+
+.fixed-column {
+    width: 120px; /* Breite der Spalte festlegen */
+}

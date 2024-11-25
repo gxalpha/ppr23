@@ -1,0 +1,87 @@
+
+.highlightPersonen {
+    color: red;
+    font-weight: bold;
+}
+
+.highlightOrganisationen {
+    color: DodgerBlue;
+    font-weight: bold;
+}
+
+.highlightLocations {
+    color: MediumSeaGreen;
+    font-weight: bold;
+}
+
+.sentiment {
+    color: gray;
+    font-style: italic;
+}
+
+.otherspeech {
+    color: gray;
+}
+
+.otherspeech .sentiment {
+    color: darkgray;
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.legendBox {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  background-color:
+  width: 300px;
+  float: right;
+}
+
+.red-dot {
+    height: 25px;
+    width: 25px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.blue-dot {
+    height: 25px;
+    width: 25px;
+    background-color: DodgerBlue;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.green-dot {
+    height: 25px;
+    width: 25px;
+    background-color: MediumSeaGreen;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.big-box-text {
+    background-color: rgb(245, 245, 245);
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+fotoContainer {
+    align: center;
+    width: 300px;
+    padding: 20px;
+    text-align: right;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+img {
+  border-radius: 10%;
+}

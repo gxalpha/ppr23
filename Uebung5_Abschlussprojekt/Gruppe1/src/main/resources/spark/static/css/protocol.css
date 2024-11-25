@@ -1,0 +1,44 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+    font-weight: 400;
+    color: black;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:100px;
+    margin-bottom:50px
+}
+
+.box {
+    border-radius: 10px;
+    width: 90%;
+    display: block;
+    margin: auto;
+    padding: 30pt;
+    background-color: rgb(245, 245, 245);
+    opacity: 0.9;
+}
+
+button {
+    border-radius: 7px;
+    display: inline-block;
+    color: white;
+    padding: 6px 10px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 15%;
+    opacity: 0.9;
+    background-color: #D3D3D3;
+}
+
+button:hover {
+    background-color: #A9A9A9;
+}
+
+fotoContainer {
+    align: center;
+    width: 300px;
+    padding: 20px;
+    }

@@ -1,0 +1,62 @@
+body {
+    background-image: url("../images/Bundestag.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Arial", sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 40px
+}
+
+.box {
+    border-radius: 10px;
+    width: 50%;
+    float: right;
+    display: block;
+    margin: auto;
+    padding: 20pt;
+    background-color: rgb(245, 245, 245);
+    opacity: 0.95;
+    height: 80%;
+    overflow: auto;
+}
+
+button[type=submit] {
+    border-radius: 7px;
+    display: inline-block;
+    color: white;
+    padding: 6px 10px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 15%;
+    opacity: 0.9;
+    background-color: #D3D3D3;
+}
+
+button[type=submit]:hover {
+    background-color: #A9A9A9;
+}
+
+input[type=text] {
+    border: none;
+    width: 100%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+input[type=date] {
+    border: none;
+    width: 20%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+}

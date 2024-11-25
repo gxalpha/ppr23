@@ -1,0 +1,6 @@
+remote_host = [REDACTED]
+remote_database = [REDACTED]
+remote_user = [REDACTED]
+remote_password = [REDACTED]
+remote_port = [REDACTED]
+remote_collection = [REDACTED]

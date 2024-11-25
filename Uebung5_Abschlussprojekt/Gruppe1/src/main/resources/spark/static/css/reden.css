@@ -1,0 +1,81 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+    font-weight: 400;
+    color: black;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:100px;
+    margin-bottom:50px
+}
+
+.box {
+    border-radius: 10px;
+    width: 90%;
+    display: block;
+    margin: auto;
+    padding: 30pt;
+    background-color: rgb(245, 245, 245);
+    opacity: 0.9;
+}
+
+.box2 {
+    border-radius: 10px;
+    width: 90%;
+    display: block;
+    margin: auto;
+    padding: 0.5pt;
+    background-color: rgb(245, 245, 245);
+    opacity: 0.9;
+}
+
+.bar {
+    fill: steelblue;
+}
+
+.bar:hover {
+    fill: orange;
+}
+
+.axis {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+}
+
+.radar-chart {
+    font-family: sans-serif;
+}
+
+.radar-chart .axis line {
+    stroke: #aaa;
+}
+
+.radar-chart .axis text {
+    fill: #666;
+    font-size: 1em;
+}
+
+.radar-chart .axis .title {
+    fill: #000;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.radar-chart .line {
+    fill: orange;
+    opacity: 0.6;
+    stroke-width: 2px;
+}
+
+.radar-chart .point {
+    fill: steelblue;
+    stroke: steelblue;
+}
